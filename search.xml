@@ -8,9 +8,15 @@
       <link href="/2023/12/02/test/"/>
       <url>/2023/12/02/test/</url>
       
-        <content type="html"><![CDATA[<img src="/2023/12/02/test/1212.jpg" alt="1212" style="zoom:50%;">]]></content>
+        <content type="html"><![CDATA[<img src="/2023/12/02/test/1212.jpg" alt="1212" style="zoom:50%;"><p>音乐 music</p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> music </tag>
+            
+        </tags>
       
     </entry>
     
